@@ -1,0 +1,22 @@
+table{
+ width:100%;
+}
+
+table,th,td{
+ border:2px solid rgb(10, 241, 49);
+}
+body{
+    font-family:Arial;
+    text-align:center;
+   }
+body{ background-image: url(/img/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media_53876-126761.avif);
+ background-size: cover;
+background-position: center;
+}
+.title{
+    color: rgb(38, 233, 223);
+}
+.imgx{
+position: absolute;
+right:10px;
+}
